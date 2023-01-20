@@ -9,7 +9,8 @@
 
 - 💬 Ask me about **react.js, mongodb, express.js, node.js**
 
-- 📫 How to reach me **Email - yadeep999@gmail.com. LinkedIn - https://www.linkedin.com/in/bharat-choudhary-69111a193/**
+- 📫 How to reach me **Email - yadeep999@gmail.com. 
+- LinkedIn - https://www.linkedin.com/in/bharat-choudhary-69111a193/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharat-2000" alt="bharat-2000" /></a> </p>
 
-- 🔭 I’m currently working on [FLIPSHOPE](https://team.flipshope.com:81/)
+- 🔭 I’m currently working on [FLIPSHOPE](https://flipshope.com/)
 
 - 🌱 I’m currently learning **React.js, TypeScript, Next.js, Express.js, Node.js, MongoDB, Web3, Smart Contracts**
 

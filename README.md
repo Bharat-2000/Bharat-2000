@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharat-2000" alt="bharat-2000" /></a> </p>
 
-- 🔭 I’m currently working on [FLIPSHOPE](https://flipshope.com/)
-
-- 🌱 I’m currently learning **React.js, TypeScript, Next.js, Express.js, Node.js, MongoDB, Web3, Smart Contracts**
+- 🌱 I’m currently working with **React.js, TypeScript, Next.js, Express.js, Node.js, MongoDB, Web3, AWS, Docker, DevOps**
 
 - 👯 I’m looking to collaborate on **Frontend Development(React.js, Redux, TypeScript) and Backend Development(Express.js, Node.js, MongoDB)**
 
-- 🤝 I’m looking for help with **MERN Stack Development, Full Stack Development**
+- 🤝 I’m looking for contribution in **MERN Stack Development, Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bharat-2000](https://github.com/Bharat-2000)
 
-- 💬 Ask me about **React.js, TypeScript, Next.js, Express.js,Node.js, MongoDB**
+- 💬 Ask me about **React.js, TypeScript, Next.js, Express.js,Node.js, MongoDB, Full Stack Dev**
 
 - 📫 How to reach me **yadeep999@gmail.com**
 

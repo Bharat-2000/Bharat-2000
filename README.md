@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bharat-2000](https://github.com/Bharat-2000)
 
-- 📫 How to reach me **yadeep999@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PHcod0o9cq94Fe5Nd0WrTXZ0yMBZY4Sm/view](https://drive.google.com/file/d/1PHcod0o9cq94Fe5Nd0WrTXZ0yMBZY4Sm/view)
 
 <h3 align="left">Connect with me:</h3>
